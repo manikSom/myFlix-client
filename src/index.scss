@@ -1,5 +1,16 @@
-$color: steelblue;
+@import '~bootstrap/scss/bootstrap.scss';
 
-.my-flix {
-  color: $color;
+$color: rgb(176, 175, 175);
+
+// $primary: SeaGreen;
+$body-color: $color;
+h1 {
+  font-size: $font-size-base * 3;
+}
+
+.movie-view-img {
+  max-height: 450px;
+}
+.movie-card-img {
+  max-height: 350px;
 }
