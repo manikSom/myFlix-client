@@ -7,7 +7,7 @@ existing server-side code (REST API and mongoDB). ["movie_app"](https://github.c
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://mokkamovie.netlify.app/login)
+- [myFlix](https://mokkamovie.netlify.app/login)
 
 ## Blueprint and Techstack
 
